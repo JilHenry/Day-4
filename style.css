@@ -1,6 +1,12 @@
 h1 {
 	font-size:50px;
 }
+
+p {
+	color:indigo;
+	font-size:30px;
+}
+
 ul  li{
 	display:inline;
 	margin-left:5px;
